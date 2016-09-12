@@ -1,5 +1,6 @@
 target/
 aspect/workspace/.metadata/
+aspect/workspace/Servers/
 pom.xml.tag
 pom.xml.releaseBackup
 pom.xml.versionsBackup
