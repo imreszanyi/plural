@@ -1,0 +1,8 @@
+package aspect1;
+
+import org.aspectj.lang.JointPoint;
+
+
+public class TracingAspect {
+
+}
